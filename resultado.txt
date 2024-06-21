@@ -1,0 +1,130 @@
+Autores: Victor Farias - Diego Saldana
+
+cantidad de aves muertas por region:
+
+Arica
+
+Antofagasta
+
+Iquique
+
+Mejillones
+
+Camarones
+
+Tocopilla
+
+Caldera
+
+Taltal
+
+Huara
+
+Chanaral
+
+La Serena
+
+Coquimbo
+
+Huasco
+
+Freirina
+
+Licanten
+
+La Higuera
+
+Curepto
+
+Valparaiso
+
+Zapallar
+
+Algarrobo
+
+Taltal 
+
+Concon
+
+Papudo
+
+Santo Domingo
+
+Puchuncavi
+
+Tocopilla 
+
+Constitucion
+
+Pichilemu
+
+mejillones
+
+taltal
+
+Navidad
+
+Los Vilos
+
+Chanco
+
+Coelemu
+
+Cobquecura
+
+Casablanca
+
+Quintero
+
+La Ligua
+
+Hualpen
+
+Cartagena
+
+Tome
+
+Litueche
+
+Lota
+
+Pelluhue
+
+
+
+Penco
+
+Valdivia
+
+Mariquina
+
+Curaco de Velez
+
+Castro
+
+Dalcahue
+
+Natales
+
+Coyhaique
+
+Rio Ibanez
+
+Bahia Corral
+
+Arauco
+
+Paredones
+
+Alto Hospicio
+
+Cisnes
+
+San Antonio
+
+Casos aves muertas mes de enero del ano 2023: 5738
+
+En la comuna de Cartagena se detectaron 2 Taguas muertas
+
+Las muertes detectadas para el 12 de febrero del 2023 de la especie Gaviota garuma son: 32
+
