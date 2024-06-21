@@ -87,13 +87,7 @@ def funcion_d2(Datos):
 #La funcion(e) muestra el grafico de barras de los datos ya antes mencionados.
 
 def funcion_e(pajaros_regiones):
-    x=[]
-    y=[]
-    for aves in pajaros_regiones:
-        x.append(aves[0])
-        y.append(aves[-1])
-    plt.bar(x, y)
-    plt.show()
+    pass
 
 
 
