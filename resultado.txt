@@ -2,125 +2,125 @@ Autores: Victor Farias - Diego Saldana
 
 cantidad de aves muertas por region:
 
-Arica
+   Region: Arica, Muertes: 30214
 
-Antofagasta
+   Region: Antofagasta, Muertes: 14175
 
-Iquique
+   Region: Iquique, Muertes: 4563
 
-Mejillones
+   Region: Mejillones, Muertes: 3751
 
-Camarones
+   Region: Camarones, Muertes: 1550
 
-Tocopilla
+   Region: Tocopilla, Muertes: 2926
 
-Caldera
+   Region: Caldera, Muertes: 1990
 
-Taltal
+   Region: Taltal, Muertes: 3085
 
-Huara
+   Region: Huara, Muertes: 360
 
-Chanaral
+   Region: Chanaral, Muertes: 3895
 
-La Serena
+   Region: La Serena, Muertes: 1954
 
-Coquimbo
+   Region: Coquimbo, Muertes: 2618
 
-Huasco
+   Region: Huasco, Muertes: 1898
 
-Freirina
+   Region: Freirina, Muertes: 323
 
-Licanten
+   Region: Licanten, Muertes: 82
 
-La Higuera
+   Region: La Higuera, Muertes: 334
 
-Curepto
+   Region: Curepto, Muertes: 1027
 
-Valparaiso
+   Region: Valparaiso, Muertes: 1310
 
-Zapallar
+   Region: Zapallar, Muertes: 585
 
-Algarrobo
+   Region: Algarrobo, Muertes: 1720
 
-Taltal 
+   Region: Taltal , Muertes: 53
 
-Concon
+   Region: Concon, Muertes: 753
 
-Papudo
+   Region: Papudo, Muertes: 202
 
-Santo Domingo
+   Region: Santo Domingo, Muertes: 682
 
-Puchuncavi
+   Region: Puchuncavi, Muertes: 526
 
-Tocopilla 
+   Region: Tocopilla , Muertes: 8
 
-Constitucion
+   Region: Constitucion, Muertes: 1867
 
-Pichilemu
+   Region: Pichilemu, Muertes: 651
 
-mejillones
+   Region: mejillones, Muertes: 22
 
-taltal
+   Region: taltal, Muertes: 1
 
-Navidad
+   Region: Navidad, Muertes: 341
 
-Los Vilos
+   Region: Los Vilos, Muertes: 287
 
-Chanco
+   Region: Chanco, Muertes: 218
 
-Coelemu
+   Region: Coelemu, Muertes: 230
 
-Cobquecura
+   Region: Cobquecura, Muertes: 71
 
-Casablanca
+   Region: Casablanca, Muertes: 25
 
-Quintero
+   Region: Quintero, Muertes: 502
 
-La Ligua
+   Region: La Ligua, Muertes: 243
 
-Hualpen
+   Region: Hualpen, Muertes: 976
 
-Cartagena
+   Region: Cartagena, Muertes: 601
 
-Tome
+   Region: Tome, Muertes: 2410
 
-Litueche
+   Region: Litueche, Muertes: 139
 
-Lota
+   Region: Lota, Muertes: 22
 
-Pelluhue
+   Region: Pelluhue, Muertes: 80
 
+   Region: , Muertes: 962
 
+   Region: Penco, Muertes: 45
 
-Penco
+   Region: Valdivia, Muertes: 572
 
-Valdivia
+   Region: Mariquina, Muertes: 93
 
-Mariquina
+   Region: Curaco de Velez, Muertes: 22
 
-Curaco de Velez
+   Region: Castro, Muertes: 38
 
-Castro
+   Region: Dalcahue, Muertes: 2
 
-Dalcahue
+   Region: Natales, Muertes: 282
 
-Natales
+   Region: Coyhaique, Muertes: 5
 
-Coyhaique
+   Region: Rio Ibanez, Muertes: 1
 
-Rio Ibanez
+   Region: Bahia Corral, Muertes: 1
 
-Bahia Corral
+   Region: Arauco, Muertes: 2727
 
-Arauco
+   Region: Paredones, Muertes: 52
 
-Paredones
+   Region: Alto Hospicio, Muertes: 1
 
-Alto Hospicio
+   Region: Cisnes, Muertes: 3
 
-Cisnes
-
-San Antonio
+   Region: San Antonio, Muertes: 1
 
 Casos aves muertas mes de enero del ano 2023: 5738
 
